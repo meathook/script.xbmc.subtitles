@@ -2,7 +2,7 @@
 
 #===============================================================================
 # Subscenter.org subtitles service.
-# Version: 1.4
+# Version: 1.5
 #
 # Change log:
 # 1.1 - Fixed downloading of non-Hebrew subtitles.
