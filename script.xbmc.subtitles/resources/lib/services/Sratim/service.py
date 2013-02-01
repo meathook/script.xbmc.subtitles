@@ -2,7 +2,7 @@
 
 #===============================================================================
 # Sratim.co.il subtitles service.
-# Version: 2.2
+# Version: 2.3
 #
 # Change log:
 # 1.1 - Fixed bug with movie search: forgot to replace spaces with + signs.
